@@ -1,2 +1,2 @@
 # ml-models
-Storing machine learning model objects
+Repo for machine learning model objects
